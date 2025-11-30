@@ -20,6 +20,7 @@ book:
     - references.qmd
 
 bibliography: references.bib
+csl: apa.csl     # <-- This specifies the APA style format
 
 format:
   html:

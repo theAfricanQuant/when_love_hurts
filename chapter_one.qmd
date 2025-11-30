@@ -10,30 +10,27 @@ When that rhythm breaks, it hurts — deeply.
 
 ### Why Heartbreak Hurts So Much
 
-Science tells us that the same part of the brain that processes physical pain also processes emotional pain. That's why heartbreak can feel like a real wound. A groundbreaking 2011 fMRI study demonstrated that intense social rejection activates the same brain regions associated with the sensory components of physical pain, giving neurological meaning to the feeling that rejection "hurts."[^1] While this overlap is profound, further research has shown that the specific neural patterns for physical and social pain are distinct. This suggests that while the brain uses the same general "alarm" centers, it still "knows" the difference between a broken leg and a broken heart.[^2] Your chest tightens, your stomach twists, your energy disappears — it's your body reacting to loss.
+Science tells us that the same part of the brain that processes physical pain also processes emotional pain. That's why heartbreak can feel like a real wound. A groundbreaking 2011 fMRI study demonstrated that intense social rejection activates the same brain regions associated with the sensory components of physical pain, giving neurological meaning to the feeling that rejection "hurts"(@kross2011social). While this overlap is profound, further research has shown that the specific neural patterns for physical and social pain are distinct. This suggests that while the brain uses the same general "alarm" centers, it still "knows" the difference between a broken leg and a broken heart.\[\^2\] Your chest tightens, your stomach twists, your energy disappears — it's your body reacting to loss.
 
-Your brain also releases stress hormones like cortisol and adrenaline, which can cause sleepless nights, loss of appetite, or even physical exhaustion.[^3] This physiological stress response is the body's alarm system, reacting to the psychological threat of a breakup as if it were a survival threat. In its most extreme clinical manifestation, this sudden flood of stress hormones can trigger Takotsubo cardiomyopathy, a diagnosable cardiac condition literally named "broken heart syndrome."[^4] You're not being dramatic — you're simply human.
+Your brain also releases stress hormones like cortisol and adrenaline, which can cause sleepless nights, loss of appetite, or even physical exhaustion.\[\^3\] This physiological stress response is the body's alarm system, reacting to the psychological threat of a breakup as if it were a survival threat. In its most extreme clinical manifestation, this sudden flood of stress hormones can trigger Takotsubo cardiomyopathy, a diagnosable cardiac condition literally named "broken heart syndrome."\[\^4\] You're not being dramatic — you're simply human.
 
 You are grieving — not just the person, but the dreams, the routines, the comfort, and the version of yourself that existed in that love.
 
 ### It's Okay to Grieve
 
-Many women feel guilty for how deeply they hurt after a breakup. You might tell yourself, "I should be over this by now." But healing has no deadline. The famous five-stage model of grief (Denial, Anger, Bargaining, Depression, Acceptance) was first published by psychiatrist Elisabeth Kübler-Ross. Her research was based on interviews with terminally ill patients grieving their own impending death; it was never intended as a rigid checklist for the bereaved.[^5] Modern grief experts have refuted the misapplication of her work as a linear timeline. You are allowed to miss someone who hurt you. You are allowed to feel angry, confused, or numb. These emotions don't make you weak — they make you real.
+Many women feel guilty for how deeply they hurt after a breakup. You might tell yourself, "I should be over this by now." But healing has no deadline. The famous five-stage model of grief (Denial, Anger, Bargaining, Depression, Acceptance) was first published by psychiatrist Elisabeth Kübler-Ross. Her research was based on interviews with terminally ill patients grieving their own impending death; it was never intended as a rigid checklist for the bereaved.\[\^5\] Modern grief experts have refuted the misapplication of her work as a linear timeline. You are allowed to miss someone who hurt you. You are allowed to feel angry, confused, or numb. These emotions don't make you weak — they make you real.
 
-Grief is love with nowhere to go. So, let it flow. Psychotherapist Megan Devine, a leading voice in modern grief theory, argues against what she calls a "pain-phobic culture" that wants to "solve" grief.[^6] She posits that, "Grief no more needs a solution than love needs a solution," reframing it as a natural, healthy response to loss.[^6] Cry if you need to. Journal your feelings. Sit in silence and breathe. Every tear you release is a small piece of your heart learning to trust again.
+Grief is love with nowhere to go. So, let it flow. Psychotherapist Megan Devine, a leading voice in modern grief theory, argues against what she calls a "pain-phobic culture" that wants to "solve" grief.\[\^6\] She posits that, "Grief no more needs a solution than love needs a solution," reframing it as a natural, healthy response to loss.\[\^6\] Cry if you need to. Journal your feelings. Sit in silence and breathe. Every tear you release is a small piece of your heart learning to trust again.
 
 ### The Truth About Emotional Pain
 
-Emotional pain doesn't just happen because someone left — it happens because you invested your heart, your time, your trust, and your identity. Losing it creates an emptiness, but that emptiness is not permanent. It's a space waiting to be filled again — this time, with peace, strength, and self-love. Neuroscientist Mary-Frances O'Connor explains this persistence of pain through a neurological lens: grieving is a form of learning.[^7] Our brain creates a neural map of the world with our loved one in it. When they are gone, the brain is faced with a profound "prediction error" as its internal map no longer matches reality. Grief, in O'Connor's model, is the acute pain when expectation collides with absence, while *grieving* is the slow, arduous process of the brain "rewiring" itself to adapt to a new reality.[^7]
+Emotional pain doesn't just happen because someone left — it happens because you invested your heart, your time, your trust, and your identity. Losing it creates an emptiness, but that emptiness is not permanent. It's a space waiting to be filled again — this time, with peace, strength, and self-love. Neuroscientist Mary-Frances O'Connor explains this persistence of pain through a neurological lens: grieving is a form of learning.\[\^7\] Our brain creates a neural map of the world with our loved one in it. When they are gone, the brain is faced with a profound "prediction error" as its internal map no longer matches reality. Grief, in O'Connor's model, is the acute pain when expectation collides with absence, while *grieving* is the slow, arduous process of the brain "rewiring" itself to adapt to a new reality.\[\^7\]
 
 ### What Healing Begins With
 
 Healing starts when you stop running from your pain and start listening to it.
 
-Ask yourself:
-*   What is this pain trying to teach me?
-*   What do I need to release?
-*   What do I need to remember about who I am?
+Ask yourself: \* What is this pain trying to teach me? \* What do I need to release? \* What do I need to remember about who I am?
 
 The answers may not come quickly, but they will come — quietly, through reflection and self-compassion. You don't have to have closure to begin healing. You just have to choose yourself, even if it hurts.
 
@@ -41,6 +38,6 @@ The answers may not come quickly, but they will come — quietly, through reflec
 
 Take five quiet minutes to write or think about this:
 
->"What am I really grieving — the person, or the version of me that loved them?"
+> "What am I really grieving — the person, or the version of me that loved them?"
 
 There is no right or wrong answer. Just honesty. Heartbreak may have cracked you open, but that's where the light begins to enter. This is the first step -- understanding your pain without judgment, without shame.
