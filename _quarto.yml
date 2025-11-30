@@ -19,6 +19,7 @@ book:
     - chapter_nine.qmd
     - references.qmd
 
+citeproc: false
 bibliography: references.bib
 csl: apa.csl     # <-- This specifies the APA style format
 
