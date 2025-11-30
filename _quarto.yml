@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "When Love Hurts"
+  author: "Gloria Aiyebogun"
+  date: "11/30/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - chapter_one.qmd
+    - chapter_two.qmd
+    - chapter_three.qmd
+    - chapter_four.qmd
+    - chapter_five.qmd
+    - chapter_six.qmd
+    - chapter_seven.qmd
+    - chapter_eight.qmd
+    - chapter_nine.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: cover.png
+
+
+
