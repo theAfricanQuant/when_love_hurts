@@ -32,8 +32,8 @@ format:
     documentclass: scrbook 
     
     # 1. Font Selection (Requires the font to be installed or use a common package)
-    mainfont: "Charter"           # Body Text (Serif)
-    sansfont: "Montserrat"        # Headings (Sans-Serif)
+    mainfont: EB Garamond  # A beautiful, high-quality TeX-built-in serif font
+    sansfont: Fira Sans    # A modern, geometric sans-serif guaranteed to be found
     fontsize: 11pt                # Base Size
     
     # 2. Including the necessary LaTeX packages
