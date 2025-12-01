@@ -39,6 +39,14 @@ format:
     
     # 2. Including the necessary LaTeX packages
     # We need titlesec for the chapter format and the LaTeX font packages
+
+    include-before-body:
+      text: |
+        \begin{titlepage}
+        \centering
+        \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{cover.png}
+        \end{titlepage}
+        \clearpage
    
   epub:
     # Use the same custom SCSS file for the EPUB styling
