@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/ 
+// Set the base font size for the book body
+$font-size-base: 1.1rem !default; 
+
+// Set the main font (serif for body)
+// Use a common serif font, or ensure your font is embedded.
+$font-family-serif: "Charter", Georgia, Cambria, "Times New Roman", serif !default; 
+
+// Set the font for headings and titles (sans-serif)
+$font-family-sans-serif: "Montserrat", Inter, Arial, sans-serif !default;

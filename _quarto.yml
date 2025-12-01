@@ -25,9 +25,7 @@ csl: apa.csl     # <-- This specifies the APA style format
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: [cosmo, styles.scss] # Styles for the website output
   pdf:
     # Use scrbook for professional, double-sided printing layout
     documentclass: scrbook 
@@ -42,6 +40,13 @@ format:
     include-in-header: 
       file: custom-chapter-style.tex
   epub:
+    # Use the same custom SCSS file for the EPUB styling
+    theme: [cosmo, styles.scss] 
+    # Important EPUB specific setting:
+    title-page: true 
+    # You might want a different toc depth for EPUB vs. HTML
+    toc-depth: 3
+
     cover-image: cover.png
 
 
