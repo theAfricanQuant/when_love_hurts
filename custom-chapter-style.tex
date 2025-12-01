@@ -1,31 +1,18 @@
 % --- custom-chapter-style.tex ---
-% This file customizes the chapter header appearance using the titlesec package.
-
 \usepackage{titlesec} 
 \usepackage{xcolor} 
-\usepackage{lettrine} % For the drop cap effect
+\usepackage{lettrine}
 
-% Define the chapter format to use the 'display' shape
 \titleformat{\chapter}[display]
-  % 1. Global format applied to the whole title block (Centered, sans-serif)
   {\normalfont\sffamily\centering} 
-  
-  % 2. The chapter number format (Label: smaller, uppercase, "Chapter X")
   {\fontsize{10pt}{12pt}\selectfont
    \MakeUppercase{Chapter \thechapter}} 
-  
-  % 3. Vertical space between number and title (Separator)
   {1.5em} 
-  
-  % 4. Code executed BEFORE the actual chapter title text (Large, bold, uppercase)
   {\huge\bfseries\MakeUppercase} 
-  
-  % 5. Code executed AFTER the actual chapter title text (Empty argument required)
   [] 
   
-% Define the spacing around the chapter title
 \titlespacing*{\chapter}
-  {0pt}                       % Left margin (unused for display)
-  {50pt}                      % Space BEFORE chapter title
-  {40pt}                      % Space AFTER chapter title
-% --------------------------------
+  {0pt}                       
+  {50pt}                      
+  {40pt}                      
+\endinput % Add \endinput to ensure absolutely nothing follows this line
