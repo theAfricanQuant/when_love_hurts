@@ -29,7 +29,7 @@ format:
       - cosmo
       - brand
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
   epub:
     cover-image: cover.png
 
