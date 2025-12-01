@@ -1,0 +1,32 @@
+% --- custom-chapter-style.tex ---
+
+% Required package for redefining chapter styles
+\usepackage{titlesec} 
+\usepackage{xcolor} % For colors (if needed)
+
+% Define the chapter format to use the 'display' shape
+% This custom format creates the two-line chapter header look
+\titleformat{\chapter}[display]
+  % 1. Command executed before the chapter title
+  {\normalfont\sffamily\centering} % Use sans-serif, centered text
+  
+  % 2. The chapter number format ("CHAPTER X")
+  {\fontsize{10pt}{12pt}\selectfont % Smaller size
+   \MakeUppercase{Chapter \thechapter}} % Text is "Chapter 1", etc.
+  
+  % 3. Vertical space between number and title
+  {1.5em} 
+  
+  % 4. The Chapter Title format (The main, large word)
+  {\huge\bfseries\MakeUppercase} % Large, bold, all-caps
+  
+% Set space after the title (adjust as needed)
+\titlespacing*{\chapter}
+  {0pt}                       % Left margin (ignored for display format)
+  {50pt}                      % Space before chapter title
+  {40pt}                      % Space after chapter title
+
+% -------------------------------------------------------------------
+% Optional: Drop Cap (requires manual addition in QMD)
+% Use the 'lettrine' package for professional drop caps
+\usepackage{lettrine}

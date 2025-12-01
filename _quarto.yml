@@ -29,7 +29,18 @@ format:
       - cosmo
       - brand
   pdf:
-    documentclass: scrbook
+    # Use scrbook for professional, double-sided printing layout
+    documentclass: scrbook 
+    
+    # 1. Font Selection (Requires the font to be installed or use a common package)
+    mainfont: "Charter"           # Body Text (Serif)
+    sansfont: "Montserrat"        # Headings (Sans-Serif)
+    fontsize: 11pt                # Base Size
+    
+    # 2. Including the necessary LaTeX packages
+    # We need titlesec for the chapter format and the LaTeX font packages
+    include-in-header: 
+      file: custom-chapter-style.tex
   epub:
     cover-image: cover.png
 
