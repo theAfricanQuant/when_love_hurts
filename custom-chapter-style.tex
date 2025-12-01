@@ -7,26 +7,28 @@
 % Define the chapter format to use the 'display' shape
 % This custom format creates the two-line chapter header look
 \titleformat{\chapter}[display]
-  % 1. Command executed before the chapter title
-  {\normalfont\sffamily\centering} % Use sans-serif, centered text
+  % 1. Command executed before the chapter title (Global format)
+  {\normalfont\sffamily\centering} 
   
-  % 2. The chapter number format ("CHAPTER X")
+  % 2. The chapter number format (Label)
   {\fontsize{10pt}{12pt}\selectfont % Smaller size
-   \MakeUppercase{Chapter \thechapter}} % Text is "Chapter 1", etc.
+   \MakeUppercase{Chapter \thechapter}} 
   
-  % 3. Vertical space between number and title
+  % 3. Vertical space between number and title (Separator)
   {1.5em} 
   
-  % 4. The Chapter Title format (The main, large word)
-  {\huge\bfseries\MakeUppercase} % Large, bold, all-caps
+  % 4. The Chapter Title format (Before the title text)
+  {\huge\bfseries\MakeUppercase} 
+  
+  % 5. Argument after the title (Empty since the style is self-contained)
+  [] 
   
 % Set space after the title (adjust as needed)
 \titlespacing*{\chapter}
-  {0pt}                       % Left margin (ignored for display format)
-  {50pt}                      % Space before chapter title
-  {40pt}                      % Space after chapter title
+  {0pt}                       
+  {50pt}                      
+  {40pt}                      
 
-% -------------------------------------------------------------------
 % Optional: Drop Cap (requires manual addition in QMD)
 % Use the 'lettrine' package for professional drop caps
 \usepackage{lettrine}
