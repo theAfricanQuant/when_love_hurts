@@ -4,7 +4,7 @@
 
 After heartbreak, many women look in the mirror and see someone unfamiliar — someone quieter, unsure, or smaller than before. The truth is, heartbreak doesn't just break your heart — it bruises your confidence.
 
-But here's something your pain doesn't want you to remember: your worth was never lost — it was only hidden under hurt. This potent reassurance is scientifically explained by the **Sociometer Hypothesis of self-esteem**, developed by psychologist Mark Leary.[^16] The theory posits that self-esteem is not an objective measure of one's true value. Instead, it functions as an "internal gauge" or "sociometer" that monitors the social environment for cues of acceptance and rejection. A breakup is a powerful rejection event that causes this gauge to plummet, triggering the painful alarm of low self-esteem.[^16]
+But here's something your pain doesn't want you to remember: your worth was never lost — it was only hidden under hurt. This potent reassurance is scientifically explained by the **Sociometer Hypothesis of self-esteem**, developed by psychologist Mark Leary [@leary1995selfesteem]. The theory posits that self-esteem is not an objective measure of one's true value. Instead, it functions as an "internal gauge" or "sociometer" that monitors the social environment for cues of acceptance and rejection. A breakup is a powerful rejection event that causes this gauge to plummet, triggering the painful alarm of low self-esteem [@leary1995selfesteem].
 
 Your *actual worth* is unchanged, but your *monitor* of that worth is flashing a critical warning.
 
@@ -14,7 +14,7 @@ When you've been lied to, abandoned, or mistreated, it's easy to start believing
 
 ### Steps to Rebuild Your Confidence and Worth
 
-The entire healing process described here is an active effort to re-calibrate the sociometer. This involves shifting its input from a reliance on fickle external feedback to stable, internal values. This aligns perfectly with research by Jennifer Crocker on the "contingencies of self-worth."[^17] Crocker found that individuals who base their self-worth on internal sources (e.g., virtue, values) have a much more stable sense of self than those who base it on external sources (e.g., approval from others, appearance).[^17]
+The entire healing process described here is an active effort to re-calibrate the sociometer. This involves shifting its input from a reliance on fickle external feedback to stable, internal values. This aligns perfectly with research by Jennifer Crocker on the "contingencies of self-worth."[@crocker2001contingencies] Crocker found that individuals who base their self-worth on internal sources (e.g., virtue, values) have a much more stable sense of self than those who base it on external sources (e.g., approval from others, appearance) [@crocker2001contingencies].
 
 1.  **Affirm Your Value Daily.** Say out loud: "I am enough. I am worthy of love, peace, and respect." This is an act of consciously choosing yourself and manually setting the gauge.
 2.  **Set Boundaries.** You teach people how to treat you by what you allow. This is a behavioral demonstration of self-value that asserts self-respect.
