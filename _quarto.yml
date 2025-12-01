@@ -29,7 +29,8 @@ format:
     theme: [cosmo, styles.scss] # Styles for the website output
   pdf:
     # Use scrbook for professional, double-sided printing layout
-    documentclass: scrbook 
+    documentclass: book
+    papersize: letter
     
     # 1. Font Selection (Requires the font to be installed or use a common package)
     
