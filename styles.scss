@@ -8,3 +8,8 @@ $font-family-serif: "Charter", Georgia, Cambria, "Times New Roman", serif !defau
 
 // Set the font for headings and titles (sans-serif)
 $font-family-sans-serif: "Montserrat", Inter, Arial, sans-serif !default;
+
+/*-- scss:rules --*/
+body {
+  background-color: #FAFAFA !important; /* Should be immediately obvious */
+}
