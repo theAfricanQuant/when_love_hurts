@@ -44,7 +44,11 @@ format:
       text: |
         \begin{titlepage}
         \centering
-        \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{cover.png}
+        \includegraphics[width=\textwidth]{cover.png}
+        \vspace{2cm}
+        {\Huge\bfseries When Love Hurts\par}
+        \vspace{1cm}
+        {\LARGE Gloria Aiyebogun\par}
         \end{titlepage}
         \clearpage
    
