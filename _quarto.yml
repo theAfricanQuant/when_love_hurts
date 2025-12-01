@@ -17,6 +17,7 @@ book:
     - chapter_seven.qmd
     - chapter_eight.qmd
     - chapter_nine.qmd
+    - about_author.qmd
     - references.qmd
 
 citeproc: true
